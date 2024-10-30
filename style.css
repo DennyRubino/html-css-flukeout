@@ -1,0 +1,7 @@
+.img {
+    margin-left: 100px; /* Space from the left of the container */
+    padding: 10px; /* Space between image and border */
+    border: 5px solid #000; /* Black border */
+    border-radius: 10px; /* Rounded corners */
+    display: inline-block; /* Ensure padding works properly */
+}
